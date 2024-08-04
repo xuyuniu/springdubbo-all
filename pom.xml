@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>1-basic</module>
+        <module>convention</module>
+        <module>log</module>
     </modules>
 
     <properties>
